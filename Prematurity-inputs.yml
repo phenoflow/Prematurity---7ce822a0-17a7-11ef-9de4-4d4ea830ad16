@@ -1,0 +1,30 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/prematurity---primary.py
+inputModule3:
+  class: File
+  path: python/prematurity-delivery---primary.py
+inputModule4:
+  class: File
+  path: python/prematurity-infant---primary.py
+inputModule5:
+  class: File
+  path: python/extreme-prematurity---primary.py
+inputModule6:
+  class: File
+  path: python/other-prematurity---primary.py
+inputModule7:
+  class: File
+  path: python/prematurity-preterm---primary.py
+inputModule8:
+  class: File
+  path: python/prematurity-immaturity---primary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
